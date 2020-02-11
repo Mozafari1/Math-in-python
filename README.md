@@ -1,1 +1,1 @@
-# Math-in-python
+Programming calculus math in python
